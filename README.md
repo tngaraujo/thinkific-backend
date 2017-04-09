@@ -1,4 +1,4 @@
-# Thinkific Back-end
+# Thinkific Vanhackathon Challenge (Back-end)
 
 This is the back-end for project https://github.com/tngaraujo/thinkific. The back-end runs on port 3000 and supports the application.
 
