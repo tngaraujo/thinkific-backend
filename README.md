@@ -29,5 +29,6 @@ The following requirements were met:
 Angular2, Express, NodeJS, SQLite3, JSON, CSS, 
 
 ## Running
-Simply run `ng serve` and navigate to `http://localhost:4200/`.
+Install depencies: `npm install express body-parser deasync sqlite3`
+Simply run `node thinkific.js` and back-end will be running in port 3000.
 The back-end should be running in the same machine (please download at https://github.com/tngaraujo/thinkific-backend).
