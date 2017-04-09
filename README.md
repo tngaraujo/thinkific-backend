@@ -26,7 +26,7 @@ The following requirements were met:
 7. The interactive video link can be embedded into another page using HTML and a simple
 
 ## Technology used
-Angular2, Express, NodeJS, SQLite3
+Angular2, Express, NodeJS, SQLite3, JSON, CSS, 
 
 ## Running
 Simply run `ng serve` and navigate to `http://localhost:4200/`.
